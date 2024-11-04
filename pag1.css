@@ -1,0 +1,14 @@
+.container {
+    width: 500px;
+    
+    background-color: rgb(0, 0, 0);
+    padding: auto;
+   
+}
+
+.card-header {
+    padding-top: 30px;
+    background-color: yellow;
+    
+}
+
